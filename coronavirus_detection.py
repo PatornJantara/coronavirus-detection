@@ -5,7 +5,7 @@ from sklearn import tree
 from sklearn.model_selection import train_test_split
 
 
-filename = 'wuhan.csv'
+filename = 'dataset.csv'
 dataFrame = pd.read_csv(filename)
 print("number of row = {}  number of column = {}".format(dataFrame.shape[0],dataFrame.shape[1]))
 
