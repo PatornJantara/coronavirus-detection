@@ -1,3 +1,3 @@
-coronavirus detection using decision tree algorithm. 
+coronavirus detection using decision tree algorithm in sklearn. 
 it may not work in practice. Just coding for fun  ^_^ 
-requirements : sklearn, pandas, os
+
